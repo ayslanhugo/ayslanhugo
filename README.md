@@ -9,6 +9,7 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
+![GitHub Streak](https://streak-stats.demolab.com?user=ayslanhugo&theme=radical&date_format=j%20M%5B%20Y%5D)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayslanhugo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayslanhugo&layout=compact&theme=radical)
 
