@@ -26,7 +26,7 @@
 ## 📅 Linha do Tempo
 
 - **2021:** Conclusão do Técnico em Informática  
-- **2023:** Início como **CAD Designer** na Denttronic Digital Lab  
+- **2021:** Início como **CAD Designer** na Denttronic Digital Lab  
 - **2023:** Início da graduação em **Sistemas de Informação** *(7º período atualmente)*  
 - **Hoje:** Focado no desenvolvimento com **Ruby on Rails**
 
@@ -48,5 +48,8 @@
   </a>
   <a href="https://www.linkedin.com/in/ayslanhugo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/in/ayslan.hugoo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
