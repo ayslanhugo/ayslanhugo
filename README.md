@@ -8,8 +8,8 @@
 
 ## 📖 Sobre mim
 - 🎓 Formado em **Técnico em Informática** *(2021)*
-- 🎓 Cursando **Sistemas de Informação** *(início em 2023, atualmente no 7º período)*
-- 💼 Atuo como **CAD Designer** na **Denttronic Digital Lab** desde 2023
+- 🎓 Cursando **Sistemas de Informação** *(início em 2022, atualmente no 7º período)*
+- 💼 Atuo como **CAD Designer** na **Denttronic Digital Lab** desde 2021
 - 🚀 Aprimorando conhecimentos em **Ruby on Rails**
 - 🍏 Usuário de **macOS**, entusiasta de **Visual Studio Code** e fluxo de trabalho limpo
 
@@ -27,7 +27,7 @@
 
 - **2021:** Conclusão do Técnico em Informática  
 - **2021:** Início como **CAD Designer** na Denttronic Digital Lab  
-- **2023:** Início da graduação em **Sistemas de Informação** *(7º período atualmente)*  
+- **2022:** Início da graduação em **Sistemas de Informação** *(7º período atualmente)*  
 - **Hoje:** Focado no desenvolvimento com **Ruby on Rails**
 
 ---
