@@ -31,10 +31,10 @@
 
 <div align="center">
   <a href="https://github.com/ayslanhugo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=NOME_DO_SEU_PROJETO_1&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=frequency_1&theme=tokyonight" />
   </a>
   <a href="https://github.com/ayslanhugo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=NOME_DO_SEU_PROJETO_2&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=bot-financeiro_2&theme=tokyonight" />
   </a>
 </div>
 
