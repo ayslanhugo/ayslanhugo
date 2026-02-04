@@ -27,19 +27,6 @@
 
 ---
 
-## 🛠️ Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/ayslanhugo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=frequency_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ayslanhugo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=bot-financeiro_2&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ## 📅 Linha do Tempo
 
 **2021:** Conclusão do Técnico em Informática  
