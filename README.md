@@ -38,8 +38,6 @@
   </a>
 </div>
 
-> **Nota:** Substitua `NOME_DO_SEU_PROJETO_1` pelo nome real do seu repositório para que o cartão apareça!
-
 ---
 
 ## 📅 Linha do Tempo
