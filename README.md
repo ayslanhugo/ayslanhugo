@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá, eu sou Ayslan Hugo</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayslanhugo&label=Perfil%20Views&color=0077B5&style=flat-square" alt="Contador de visitas" />
+</p>
+
+<p align="center">
   💻 Desenvolvedor em formação • 🎓 Graduando em Sistemas de Informação • 🛠 Apaixonado por tecnologia e soluções criativas
 </p>
 
@@ -23,11 +27,26 @@
 
 ---
 
+## 🛠️ Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/ayslanhugo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=NOME_DO_SEU_PROJETO_1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ayslanhugo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayslanhugo&repo=NOME_DO_SEU_PROJETO_2&theme=tokyonight" />
+  </a>
+</div>
+
+> **Nota:** Substitua `NOME_DO_SEU_PROJETO_1` pelo nome real do seu repositório para que o cartão apareça!
+
+---
+
 ## 📅 Linha do Tempo
 
 **2021:** Conclusão do Técnico em Informática  
 **2021:** Início como **CAD Designer** na Denttronic Digital Lab  
-**2022:** Início da graduação em **Sistemas de Informação** *(8º período atualmente)*  
+**2022:** Início da graduação em **Sistemas de Informação** *(8º período atualmente)* 
 **Hoje:** Focado no desenvolvimento com **Ruby on Rails**
 
 ---
@@ -35,8 +54,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayslanhugo&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayslanhugo&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayslanhugo&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayslanhugo&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
